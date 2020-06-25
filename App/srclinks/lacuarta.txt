@@ -1,0 +1,3 @@
+2400;https://kiosco.lacuarta.com/redirect-to-latest-issue?collection=lc_diario_la_cuarta
+2031;https://kiosco.lacuarta.com/redirect-to-latest-issue?collection=lc_suplemento_comerciante
+2033;https://kiosco.lacuarta.com/redirect-to-latest-issue?collection=lc_suplemento_constructor

@@ -1,0 +1,7 @@
+2300;https://kiosco.latercera.com/redirect-to-latest-issue?collection=lt-diario_la_tercera_early_access
+2256;https://kiosco.latercera.com/redirect-to-latest-issue?collection=lt_diario_pulso
+2120;https://kiosco.latercera.com/redirect-to-latest-issue?collection=lt_revista_mas_deco
+2255;https://kiosco.latercera.com/redirect-to-latest-issue?collection=lt_revista_paula
+2046;https://kiosco.latercera.com/redirect-to-latest-issue?collection=lt_suplemento_tendencias
+2228;https://kiosco.latercera.com/redirect-to-latest-issue?collection=lt_suplemento_motores
+2398;https://kiosco.latercera.com/redirect-to-latest-issue?collection=lt_suplemento_edicion_especial_1

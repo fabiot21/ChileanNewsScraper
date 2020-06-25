@@ -1,0 +1,2 @@
+2200;https://digital.lasegunda.com/Latest?action=findSection&section=A
+2224;https://digital.lasegunda.com/Latest?action=findSection&section=V

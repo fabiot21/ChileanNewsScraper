@@ -1,0 +1,11 @@
+2184;https://www.estrellaarica.cl/?q
+2191;https://www.mercuriocalama.cl/?q
+2213;https://www.cronicachillan.cl/?q
+2217;https://www.diarioatacama.cl/?q
+2218;https://www.estrellatocopilla.cl/?q
+2220;https://www.mercurioantofagasta.cl/?q
+2221;https://www.estrellaloa.cl/?q
+2222;https://www.estrellaiquique.cl/?q
+2193;https://www.ellanquihue.cl/?q
+2194;https://www.australosorno.cl/?q
+2196;https://www.australtemuco.cl/?q

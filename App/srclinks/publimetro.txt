@@ -1,0 +1,6 @@
+2074;https://www.readmetro.com/es/chile/santiago/
+2002;https://www.readmetro.com/es/chile/casas/
+2003;https://www.readmetro.com/es/chile/mujeres/
+2075;https://www.readmetro.com/es/chile/especialescl/
+2141;https://www.readmetro.com/es/chile/diarioelgrafico/
+2087;https://www.readmetro.com/es/chile/autos/
